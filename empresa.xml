@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <empleado>
+        <primer_nombre>Luis</primer_nombre>
+        <apellido>Diaz</apellido>
+        <numero_contacto>654321658</numero_contacto>
+        <email>asdf@asdf.com</email>
+        <direccion>
+            <ciudad>Springfield</ciudad>
+            <estado>???</estado>
+            <zip>39008</zip>
+        </direccion>
+    </empleado>
+    <empleado>
+        <primer_nombre>Ruben</primer_nombre>
+        <apellido></apellido>
+        <numero_contacto>693582471</numero_contacto>
+        <email>qwerty@qwerty.com</email>
+        <direccion>
+            <ciudad>Quahog</ciudad>
+            <estado>Rhode Island</estado>
+            <zip>39007</zip>
+        </direccion>
+    </empleado>
+</empresa>
